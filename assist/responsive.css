@@ -1,0 +1,26 @@
+@media screen and (max-width:500px){
+    .load p{
+        font-size: 30px;
+        font-weight: bold;
+    }
+    .dot{
+        height: 7px;
+        width: 7px;
+    }
+    .dot-container{
+        margin-top: -7px;
+        margin-left: -6px;
+    }
+    .dot-container2{
+        width: 90%;
+    }
+}
+@media screen and (max-width:500px){
+    .load p{
+        font-size: 20px;
+    }
+    .dot{
+        height: 4px;
+        width: 4px;
+    }
+}
